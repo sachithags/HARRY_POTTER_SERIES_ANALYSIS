@@ -1,7 +1,16 @@
-# Character Similarity Analysis (Harry Potter Dataset)
+# Harry Potter Character Similarity Analysis
 
-## 📌 Project Overview
-This project analyzes character similarities in the **Harry Potter** dataset using **Word2Vec embeddings** and **cosine similarity**.
+This project analyzes character relationships in the Harry Potter series using Word2Vec embeddings trained on character dialogues.
+
+## Overview
+
+The analysis uses natural language processing techniques to:
+1. Extract and preprocess dialogue from Harry Potter books
+2. Train Word2Vec models on character speeches
+3. Create character embeddings by averaging their dialogue vectors
+4. Calculate cosine similarity between character embeddings
+5. Identify character clusters and relationships
+
 
 ## 📂 Project Structure
 HARRY_POTTER_SERIES_ANALYSIS/
