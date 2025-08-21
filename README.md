@@ -12,15 +12,6 @@ The analysis uses natural language processing techniques to:
 5. Identify character clusters and relationships
 
 
-## 📂 Project Structure
-HARRY_POTTER_SERIES_ANALYSIS/
-│── data/
-│ └── Harry_Potter_2.csv 
-│── notebooks/
-│ └── character_similarity.ipynb 
-│── README.md 
-│── requirements.txt # Dependencies 
-
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the Repository
