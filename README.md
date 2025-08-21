@@ -23,7 +23,7 @@ cd character-similarity
 pip install -r requirements.txt
 
 3️⃣ Run the Notebook
-jupyter notebook notebooks/character_similarity.ipynb
+jupyter notebook notebooks/HARRY_POTTER_SERIES_ANALYSIS.ipynb
 
 📊 Results
 
